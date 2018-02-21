@@ -1,0 +1,3 @@
+import re
+if re.search('[a-z]', 'dijcefwcnkjn1'):
+	print('true')
