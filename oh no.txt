@@ -1,1 +1,3 @@
 print ('oh no!')
+print ('its magic')
+print ('probably')
